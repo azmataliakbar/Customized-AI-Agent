@@ -9,7 +9,6 @@ anyio==3.7.1
 asttokens==3.0.0
 asyncer==0.0.2
 attrs==25.1.0
-audioop-lts==0.2.1
 backoff==2.2.1
 beautifulsoup4==4.13.3
 bidict==0.23.1
