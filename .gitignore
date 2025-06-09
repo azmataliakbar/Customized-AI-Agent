@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+
+# Ignore unnecessary files
+.files/
+.env
+*.log
+
+# Ignore Chainlit session data (optional)
+.chainlit/cache/
